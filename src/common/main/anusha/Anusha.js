@@ -46,12 +46,12 @@ export const Anusha = () => {
           
           <button className='ppimg'>
             <img src='/h3.jpg' alt='hongkong'/>
-            <span>Hongkong</span>
+            <span>hong</span>
           </button>
           
           <button className='ppimg'>
             <img src='/h4.jpg' alt='japan'/>
-            <span>Japanese</span>
+            <span>japan</span>
           </button>
           
         </div>
