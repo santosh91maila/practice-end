@@ -1,0 +1,19 @@
+#header{
+    height: 80px;
+    width: 100%;
+    background-color: brown;
+    position: relative;
+    margin-bottom: 2px;
+}
+#head-title{
+    font-size: 40px;
+    font-weight: bold;
+    color:white;
+    position: absolute;
+    top:8px;
+    align-items: center;
+    left:41%;
+    padding: 10px;
+
+}
+

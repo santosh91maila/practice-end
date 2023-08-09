@@ -1,0 +1,9 @@
+#sidebar{
+    position: relative;
+    display: inline-block;
+    float: left;
+    height: 500px;
+    width: 30%;
+    border: 1px solid red;
+    margin-right: 10px;
+}

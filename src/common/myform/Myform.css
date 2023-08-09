@@ -1,0 +1,17 @@
+.form{
+    height: 100px;
+    width: 100%;
+    border: 2px solid brown;
+    position: absolute;
+    top: 100%;
+    
+}
+.error{
+    width: 50%;
+    height: 50px;
+    border: 1px solid black;
+    position: absolute;
+    top: 10%;
+    color: red;
+
+}
