@@ -19,7 +19,7 @@ export const Content = () => {
     <div id='content'>
       <Santosh/>
       <div id='anusharoute'>
-        <a href='/Anusha'>Anusha Restaurants</a>
+        <a href='/Anusha'>Anusha  main Restaurants</a>
       </div>
       <br/>
       <input type='text' onChange={fnChange}/><button onClick={fnClick}>submit</button>
